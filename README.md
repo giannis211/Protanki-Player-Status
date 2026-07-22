@@ -1,2 +1,11 @@
-# Protanki-Player-Status
-See whether a player is online or offline and when he was last online
+<div align="center">
+
+<a href="https://protanki-stats-by-miranjo.duckdns.org/">
+</a>
+
+# ProTanki Player Status
+
+<div align="center">
+
+### 👉 [**protanki-stats-by-miranjo.duckdns.org**](https://protanki-stats-by-miranjo.duckdns.org/) 👈
+</div>
