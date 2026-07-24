@@ -4,8 +4,9 @@
 </a>
 
 # ProTanki Player Status
-
+# ProTanki Live
 <div align="center">
 
+# A community dashboard for ProTanki" — check who's online, browse clans, watch live battles, and sync stats to Discord.
 ### 👉 [**protanki-stats-by-miranjo.duckdns.org**](https://protanki-stats-by-miranjo.duckdns.org/) 👈
 </div>
